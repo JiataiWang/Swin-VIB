@@ -1,5 +1,5 @@
 # Swin-VIB
-we will make code publicly available upon the acceptance of this paper.
+Swin-VIB is a knowledge-conflict control framework for retrieval-augmented LLMs that adaptively regulates external context injection with an information-bottleneck sliding-window mechanism to improve reliability and consistency in the wild.
 
 ## Citation
 If you find our work useful in your research, please consider citing:
